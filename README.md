@@ -1,1 +1,1 @@
-# university-integrated-information-system
+# UIIS:Registrar_Management_System
